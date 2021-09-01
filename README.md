@@ -37,7 +37,7 @@ Ryan Hohimer, ryan.hohimer@darklight.ai, rhohimer, Darklight Inc.
 
 - [TC Open Repositories: Overview and Resources](https://www.oasis-open.org/resources/open-repositories/)
 
-- [Frequently Asked Questions]https://www.oasis-open.org/resources/open-repositories/faq)
+- [Frequently Asked Questions](https://www.oasis-open.org/resources/open-repositories/faq)
 
 - [Open Source Licenses](https://www.oasis-open.org/resources/open-repositories/licenses)
 
